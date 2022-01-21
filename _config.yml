@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://github.com/SorinnyDev
 baseurl: /
 permalink: pretty
 
@@ -213,7 +213,7 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social: https://github.com/SorinnyDev
   #LinkLabel: Link
 
 
@@ -233,8 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 #in directory: /assets/images/avatar.gif
-in directory: /assets/images/jake.jpeg
-#avatar:
+avatar: /assets/images/jake.jpeg
 
 
 # Table Of Contents in the Sidebar
