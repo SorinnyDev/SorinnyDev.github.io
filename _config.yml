@@ -216,7 +216,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social: https://github.com/SorinnyDev
-  LinkLabel: GitHub - SorinnyDev
+  LinkLabel: "GitHub - SorinnyDev"
 
 
 # Social Links Icons
