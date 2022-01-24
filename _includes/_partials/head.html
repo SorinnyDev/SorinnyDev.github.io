@@ -81,9 +81,12 @@
 {% if site.feed and site.feed.path and site.rss == '' or site.rss == nil %}
   {% assign site_rss = site.feed.path %}
 {% endif %}
+
+<!--
 {% if site_rss %}
   <link rel="alternate" href="{{ site_rss | relative_url }}" title="{{ site.title }}" type="application/atom+xml" />
 {% endif %}
+-->
 
 
 {% if site.favicon %}
